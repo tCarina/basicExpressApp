@@ -21,17 +21,17 @@ module.exports = [{
 }, {
     name: 'Dinner',
     date: '2021-06-10',
-    amount: 180,
+    amount: -180,
     from: 'checking'
 }, {
     name: 'Phone Bill',
     date: '2021-06-14',
-    amount: 80,
+    amount: -80,
     from: 'checking'
 }, {
     name: 'UberEats',
     date: '2021-06-19',
-    amount: 42,
+    amount: -42,
     from: 'checking'
 
 }
